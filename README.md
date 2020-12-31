@@ -1,2 +1,2 @@
 # Computational Mechanics
- FlexPDE and Maple code from ENGPHYS 2P04: Computational Mechanics.
+During the Fall 2020 semester I took ENGPHYS 2P04: Computational Mechanics, a core course of the engineering physics program. In this course we explored several topics in mechanics such as rigidity, trusses, harmonic motion and shear force. What makes this course different from others is that we had to create our own problems from these topics and sovle them using computational methods. We used Maple and the finite elements solver FlexPDE to model and solve for different phenomona. This GitHub repository contains some of my work for this course. I hope you learn something from my work!
